@@ -3,6 +3,8 @@ require 'yaml'
 require 'net/ssh'
 
 # 
+# create amazon ec2 instance and ssh into it
+#
 # author: Diwei Jiang
 # email:  dj815@nyu.edu
 # 
